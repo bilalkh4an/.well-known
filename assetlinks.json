@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.solutions.bit.bloodpressure",
+    "sha256_cert_fingerprints":
+    ["5F:47:BE:B8:55:99:67:34:27:97:C4:5D:AC:C3:86:02:02:69:7B:EC:0A:28:42:9F:96:03:82:7E:83:04:1B:A6"]
+  }
+}]
